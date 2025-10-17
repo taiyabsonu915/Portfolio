@@ -11,7 +11,7 @@ function About() {
           About Me
         </h1>
         <p className="text-center text-gray-600 max-w-3xl mx-auto leading-relaxed">
-        "Hi, I’m Taiyab! As a fresher in the world of software engineering. I am Graduated from Veer Bahadur Singh purvanchal University (VBSPU).I am from SARAY DURGA-DASH BADLAPUR JAUNPUR UTTAR PRADESH(222125) 
+        "Hi, I’m Taiyab! As a fresher in the world of software engineering. I am Graduated from Veer Bahadur Singh purvanchal University (VBSPU).I am from JAUNPUR UTTAR PRADESH 
         </p>
         <br />
 
